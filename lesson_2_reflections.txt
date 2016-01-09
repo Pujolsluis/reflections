@@ -3,3 +3,6 @@ When initialize a repository, the .git folder is made so i can start managing al
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Its great that git has a staging area because i can choose how to make little bundles of files to commit, and i can see what files i havent track in my working area that are left. well done git creator :P lol
+
+How can you use the staging area to make sure you have one commit per logical change?
+i just add the files in order to the staging are and commit the ones that are responsible for that change.
