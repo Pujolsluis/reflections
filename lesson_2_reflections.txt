@@ -6,3 +6,6 @@ Its great that git has a staging area because i can choose how to make little bu
 
 How can you use the staging area to make sure you have one commit per logical change?
 i just add the files in order to the staging are and commit the ones that are responsible for that change.
+
+How do the diagrams help you visualize the branch structure?
+its really helpfull since with the diagram i know exactly which commits might be forgotten and how to arrange them in such a way that they are always related to one branch so i dont loose my progress and in the future can merge it.
