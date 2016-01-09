@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When initialize a repository, the .git folder is made so i can start managing all my metadata for that proyect, if i dont git init. i wonth be able to use git in that repository at all.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Its great that git has a staging area because i can choose how to make little bundles of files to commit, and i can see what files i havent track in my working area that are left. well done git creator :P lol
