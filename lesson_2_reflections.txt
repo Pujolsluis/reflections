@@ -9,3 +9,12 @@ i just add the files in order to the staging are and commit the ones that are re
 
 How do the diagrams help you visualize the branch structure?
 its really helpfull since with the diagram i know exactly which commits might be forgotten and how to arrange them in such a way that they are always related to one branch so i dont loose my progress and in the future can merge it.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+As a result of merging two branches we get the finished product its a mix of all the new changes we made to the file in the new branch with the, old and new ones that have been made in the normal branch.
+We represent it the way we do so we understand its two different work flows that if you checkout in one wonth be the same as the one you were before.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros:
+I can manage to have a full finished product while working with it separetly in different aspect of the program.
+Cons:
+It may seem sometimes tiredsome but its actually, a great feature for us.
